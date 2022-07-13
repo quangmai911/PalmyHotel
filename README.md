@@ -2,4 +2,4 @@
 
 A student project the YooBee Webdesign & UI course in New Zealand
 
-Copyright QUANG MAI
+Copyright © 2022 QUANG MAI
